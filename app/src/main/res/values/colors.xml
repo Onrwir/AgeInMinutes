@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="textGrey">#666464</color>
     <color name="bgColor">#4292F1</color>
+    <color name="dargBlue">#0F5DBD</color>
 </resources>
